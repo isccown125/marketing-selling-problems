@@ -2,7 +2,7 @@
   "name": "marketing-selling-problems",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/isccown125/sales-problem.git",
+  "homepage": "https://github.com/isccown125/marketing-selling-problems",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "node scripts/deploy.js",
